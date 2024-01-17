@@ -4,37 +4,37 @@
 
 **Home**
 
-<img src='https://github.com/midas92/RN-matchingGame/blob/master/images/screenshots/HomeScreen.png?raw=true' alt='Home' height='500'>
+<img src='images/screenshots/HomeScreen.png?raw=true' alt='Home' height='500'>
 
 ---
 
 **Game Setup**
 
-<img src='https://github.com/midas92/RN-matchingGame/blob/master/images/screenshots/SetupScreen.png?raw=true' alt='Setup Game' height='500'>
+<img src='images/screenshots/SetupScreen.png?raw=true' alt='Setup Game' height='500'>
 
 ---
 
 **Game Screen (Start)**
 
-<img src='https://github.com/midas92/RN-matchingGame/blob/master/images/screenshots/GameScreenFresh.png?raw=true' alt='Game Start' height='500'>
+<img src='images/screenshots/GameScreenFresh.png?raw=true' alt='Game Start' height='500'>
 
 ---
 
 **Game Screen (Playing)**
 
-<img src='https://github.com/midas92/RN-matchingGame/blob/master/images/screenshots/GameScreenPlayed.png?raw=true' alt='Game Playing' height='500'>
+<img src='images/screenshots/GameScreenPlayed.png?raw=true' alt='Game Playing' height='500'>
 
 ---
 
 **Game Screen (Finished)**
 
-<img src='https://github.com/midas92/RN-matchingGame/blob/master/images/screenshots/GameScreenFinished.png?raw=true' alt='Game Finished' height='500'>
+<img src='images/screenshots/GameScreenFinished.png?raw=true' alt='Game Finished' height='500'>
 
 ---
 
 **High Scores**
 
-<img src='https://github.com/midas92/RN-matchingGame/blob/master/images/screenshots/HighScoresScreen.png?raw=true' alt='High Scores' height='500'>
+<img src='images/screenshots/HighScoresScreen.png?raw=true' alt='High Scores' height='500'>
 
 
 ## Running Application
